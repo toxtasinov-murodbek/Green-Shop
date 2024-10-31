@@ -1,0 +1,104 @@
+.header-shop {
+    justify-content: left;
+    color: green;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+li {
+    list-style: none;
+    padding: 0px 15px;
+}
+
+header {
+    background:white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header-nav {
+    display: flex;
+}
+.header-icon {
+    justify-content: end;
+}
+
+.header-nav ul {
+    padding-left: 0px;
+}
+
+header h1 {
+    color: green;
+}
+
+.header-icon button {
+    background: green;
+    color: aliceblue;
+}
+
+
+.main-star {
+    display: flex;
+
+}
+
+.main-star h4 {
+    color: green;
+    justify-content: left;
+}
+
+.main-star i  {
+ color: rgb(181, 184, 18);
+ align-items: end;
+}
+
+.footer-info {
+    background: rgb(190, 213, 190);
+    justify-content: space-between;
+    display: flex;
+    color: black;
+    align-items: center;
+}
+
+.footer-info i {
+    color: green;
+}
+
+.green-shop {
+    color: green;
+}
+
+.footer-end {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.bosh-quti {
+    width: 120px;
+    height: 1020px;
+    border: 20px;
+}
+
+.main-saction {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.main-foto-child {
+ width: 445px;
+height: 444px;
+top: 175px;
+left: 250px;
+gap: 0px;
+border-radius: 6px 0px 0px 0px;
+opacity: 0px;
+
+}
+
+
